@@ -1,0 +1,1685 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="typepad-standard" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+	<!-- head-common -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="generator" content="http://www.typepad.com/" />
+	
+	
+    <link rel="canonical" href="https://tickersense.typepad.com/ticker_sense/" />
+
+
+
+        <link rel="stylesheet" href="https://tickersense.typepad.com/ticker_sense/styles.css?v=6" type="text/css" media="screen" />
+        <link rel="stylesheet" href="https://static.typepad.com/.shared/themes/common/print.css" type="text/css" media="print" />
+
+<link rel="stylesheet" href="https://static.typepad.com/.shared/css/featherlight-gallery.css">
+
+<!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+	<link rel="alternate" type="application/atom+xml" title="Posts on 'Ticker Sense' (Atom)" href="https://tickersense.typepad.com/ticker_sense/atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="Posts on 'Ticker Sense' (RSS 1.0)" href="https://tickersense.typepad.com/ticker_sense/index.rdf" />
+	<link rel="alternate" type="application/rss+xml" title="Posts on 'Ticker Sense' (RSS 2.0)" href="https://tickersense.typepad.com/ticker_sense/rss.xml" />
+	<script type="text/javascript">
+		var TPApp = {};
+		TPApp.app_uri = "https://www.typepad.com/";
+	</script>
+	<script type="text/javascript" src="https://static.typepad.com/.shared/js/yui/yahoo-dom-event.js,/js/app/thumbnail-gallery-min.js"></script>
+
+
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-225723-36', 'auto', {'name': 'Typepad'}, {'allowLinker': true} );  // Separate tracker for Typepad.
+ga('Typepad.require', 'linker');
+ga('Typepad.linker:autoLink', ['none']);
+ga('Typepad.set', 'dimension1', '6a00d8341c924353ef00d8341cad9553ef');
+ga('Typepad.set', 'dimension2', 'index');
+ga('Typepad.send', 'pageview');
+</script>
+
+
+
+<meta property="og:title" content="Ticker Sense" />
+<meta property="og:site_name" content="Ticker Sense" />
+<meta property="og:type" content="blog" />
+<meta property="og:url" content="https://tickersense.typepad.com/ticker_sense/" />
+<meta property="og:description" content="" />
+<meta property="fb:admins" content="" />
+<meta property="og:image" content="https://static.typepad.com/.shared/default-userpics/18-220si.gif" />
+
+
+
+	<title>Ticker Sense</title>
+	<link rel="openid.server" href="https://www.typepad.com/services/openid/server" />
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.typepad.com/services/rsd/6a00d8341c924353ef00d8341cad9553ef" />
+			<link rel="meta" type="application/rdf+xml" title="FOAF" href="https://tickersense.typepad.com/foaf.rdf" />
+	
+        
+</head>
+
+
+
+<body class="layout-three-column index">
+	
+	<div id="container">
+		<div id="container-inner" class="pkg">
+			
+
+
+<a id="home"></a>
+   
+
+<!-- banner -->
+<div id="banner">
+	<div id="banner-inner" class="pkg">
+		
+		<h1 id="banner-header"><a href="https://tickersense.typepad.com/ticker_sense/" accesskey="1">Ticker Sense</a></h1>
+		<h2 id="banner-description">
+		</h2>
+	</div>
+</div>
+
+
+
+
+
+
+			<div id="pagebody">
+				<div id="pagebody-inner" class="pkg">
+					<div id="alpha">
+						<div id="alpha-inner" class="pkg">
+							<!-- sidebar1 -->
+
+
+<!-- list_inlcude.tt  -->
+<div id="follow_us" class="module-typelist module">
+<h2 class="module-header">Follow Us!</h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note"><a href=" http://twitter.com/tickersense"><img src="https://tickersense.typepad.com/smalltwitterlogo.jpg"></a>
+
+<a href="http://seekingalpha.com/author/tickersense/articles"><img src="https://tickersense.typepad.com/smallseekingalpha.jpg"></a></div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="on_bloomberg" class="module-typelist module">
+<h2 class="module-header">On Bloomberg</h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note"><img src="https://tickersense.typepad.com/equitykey.JPG"></a> 
+ Access our posts on your Bloomberg terminal: NH BLG_TICKER_SENSE <GO> 
+</div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="subscribe" class="module-typelist module">
+<h2 class="module-header">Subscribe</h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note"><a href="https://tickersense.typepad.com/research"><img src="https://tickersense.typepad.com/subscribe_here.png"></a>
+
+<a href="https://tickersense.typepad.com/research"><img src="https://tickersense.typepad.com/learn_more.png"></a>
+
+<a href="https://tickersense.typepad.com/research/2006/08/the_miniinstitu.html"><img src="https://tickersense.typepad.com/mini.png"></a>
+
+<a href="https://www.birinyi.com/app/register"><img src="https://tickersense.typepad.com/monthlyminicopy.png"></a>
+
+<a href="https://tickersense.typepad.com/research/2006/08/d.html"><img src="https://tickersense.typepad.com/newsletter.png"></a>
+
+<a href="https://www.birinyi.com/app/register"><img src="https://tickersense.typepad.com/monthlynewspng.png"></a>
+
+<script src="https://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2698209-1";
+urchinTracker();
+</script></div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="newsletter_portfolio_performance" class="module-typelist module">
+<h2 class="module-header">Newsletter Portfolio Performance</h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note"><a href="http://www.birinyi.com/newsletter-service.html"><img src="https://tickersense.typepad.com/newsletter%20performance.JPG"></a>
+</div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="birinyi_mailing_list" class="module-typelist module">
+<h2 class="module-header">Birinyi Mailing List</h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note"><table border=0 style="background-color: #fff" cellspacing="1">
+  <tr><td>
+<font size="+0.5">
+Stay in the loop: 
+</tr></td>
+<tr><td>
+Subscribe to Birinyi's <b>free</b> mailing list
+</font>
+  </td></tr>
+  <form action="https://groups.google.com/group/birinyi-associates/boxsubscribe">
+  <input type=hidden name="hl" value="en">
+  <tr><td style="padding-left: 5px;">
+  Email: <input type=text name=email>
+  <input type=submit name="sub" value="Subscribe">
+  </td></tr>
+</form>
+<tr><td align=right>
+</table></div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="search" class="module-typelist module">
+<h2 class="module-header">Search</h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note"><p>Search Ticker Sense<p>
+<!-- Google CSE Search Box Begins  -->
+<form action="https://www.google.com/cse" id="searchbox_014318652548129872321:ss-0njx7b7w">
+  <input type="hidden" name="cx" value="014318652548129872321:ss-0njx7b7w" />
+  <input type="text" name="q" size="22" />
+  <input type="submit" name="sa" value="Search" />
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_014318652548129872321%3Ass-0njx7b7w&lang=en"></script>
+<!-- Google CSE Search Box Ends -->
+
+<p>Search Investment Blog Network<p>
+<!-- Google CSE Search Box Begins  -->
+<form action="https://www.google.com/cse" id="searchbox_014318652548129872321:dlwaiqowz1a">
+  <input type="hidden" name="cx" value="014318652548129872321:dlwaiqowz1a" />
+  <input type="text" name="q" size="22" />
+  <input type="submit" name="sa" value="Search" />
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_014318652548129872321%3Adlwaiqowz1a&lang=en"></script>
+<!-- Google CSE Search Box Ends --></div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="birinyi_readings" class="module-typelist module">
+<h2 class="module-header">Birinyi Readings</h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note-label"><a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FLiars-Poker-Rising-Through-Wreckage%2Fdp%2F0393027503%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1206646203%26sr%3D1-1&tag=ticksens-20&linkCode=ur2&camp=1789&creative=9325"><img alt="Michael Lewis: Liar’s Poker" src="https://images-na.ssl-images-amazon.com/images/P/0393027503.01._SCTHUMBZZZ_.jpg"></a></div><div class="typelist-note"><a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FLiars-Poker-Rising-Through-Wreckage%2Fdp%2F0393027503%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1206646203%26sr%3D1-1&tag=ticksens-20&linkCode=ur2&camp=1789&creative=9325">Michael Lewis: Liar's Poker</a><img src="https://www.assoc-amazon.com/e/ir?t=ticksens-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div></li>
+							<li class="module-list-item"><div class="typelist-note-label"><a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FStudies-Reading-Contrary-Opinion-Library%2Fdp%2F0870340646%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1206646513%26sr%3D1-1&tag=ticksens-20&linkCode=ur2&camp=1789&creative=9325"><img alt="Rollo Tape: Studies in Tape Reading " src="https://images-na.ssl-images-amazon.com/images/P/0870340646.01._SCTHUMBZZZ_.jpg"></a></div><div class="typelist-note"><a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FStudies-Reading-Contrary-Opinion-Library%2Fdp%2F0870340646%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1206646513%26sr%3D1-1&tag=ticksens-20&linkCode=ur2&camp=1789&creative=9325">Rollo Tape: Studies in Tape Reading</a><img src="https://www.assoc-amazon.com/e/ir?t=ticksens-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div></li>
+							<li class="module-list-item"><div class="typelist-note-label"><a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FReminiscences-Stock-Operator-Illustrated-Marketplace%2Fdp%2F0471678767%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1206646610%26sr%3D1-2&tag=ticksens-20&linkCode=ur2&camp=1789&creative=9325"><img alt="Edwin Lefèvre: Reminiscences of a Stock Operator" src="https://images-na.ssl-images-amazon.com/images/P/0471678767.01._SCTHUMBZZZ_.jpg"></a></div><div class="typelist-note"><a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FReminiscences-Stock-Operator-Illustrated-Marketplace%2Fdp%2F0471678767%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1206646610%26sr%3D1-2&tag=ticksens-20&linkCode=ur2&camp=1789&creative=9325">Edwin Lefèvre: Reminiscences of a Stock Operator </a><img src="https://www.assoc-amazon.com/e/ir?t=ticksens-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div></li>
+							<li class="module-list-item"><div class="typelist-note-label"><a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FMoney-Game-Adam-Smith%2Fdp%2F0394721039%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1206647429%26sr%3D1-1&tag=ticksens-20&linkCode=ur2&camp=1789&creative=9325"><img alt="Adam Smith: The Money Game" src="https://images-na.ssl-images-amazon.com/images/P/0394721039.01._SCTHUMBZZZ_.jpg"></a></div><div class="typelist-note"><a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FMoney-Game-Adam-Smith%2Fdp%2F0394721039%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1206647429%26sr%3D1-1&tag=ticksens-20&linkCode=ur2&camp=1789&creative=9325">Adam Smith: The Money Game</a><img src="https://www.assoc-amazon.com/e/ir?t=ticksens-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div></li>
+							<li class="module-list-item"><div class="typelist-note-label"><a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FGo-Go-Years-Crashing-Investment-Classics%2Fdp%2F0471357545%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1206647524%26sr%3D1-2&tag=ticksens-20&linkCode=ur2&camp=1789&creative=9325"><img alt="John Brooks: The Go-Go Years" src="https://images-na.ssl-images-amazon.com/images/P/0471357545.01._SCTHUMBZZZ_.jpg"></a></div><div class="typelist-note"><a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FGo-Go-Years-Crashing-Investment-Classics%2Fdp%2F0471357545%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1206647524%26sr%3D1-2&tag=ticksens-20&linkCode=ur2&camp=1789&creative=9325">John Brooks: The Go-Go Years</a><img src="https://www.assoc-amazon.com/e/ir?t=ticksens-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div></li>
+							<li class="module-list-item"><div class="typelist-note-label"><a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FTruth-Stock-Tape-Successful-Investment%2Fdp%2F1419185284%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1206647668%26sr%3D1-9&tag=ticksens-20&linkCode=ur2&camp=1789&creative=9325"><img alt="William Gann: Truth of the Stock Tape" src="https://images-na.ssl-images-amazon.com/images/P/1419185284.01._SCTHUMBZZZ_.jpg"></a></div><div class="typelist-note"><a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FTruth-Stock-Tape-Successful-Investment%2Fdp%2F1419185284%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1206647668%26sr%3D1-9&tag=ticksens-20&linkCode=ur2&camp=1789&creative=9325">William Gann: Truth of the Stock Tape</a><img src="https://www.assoc-amazon.com/e/ir?t=ticksens-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div></li>
+							<li class="module-list-item"><div class="typelist-note-label"><a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FExtraordinary-Delusions-Confusi%25C3%25B3n-Confusiones-Marketplace%2Fdp%2F0471133124%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1206647766%26sr%3D1-1&tag=ticksens-20&linkCode=ur2&camp=1789&creative=9325"><img alt="Martin Fridson: Popular Delusions & Confusion de Confusiones" src="https://images-na.ssl-images-amazon.com/images/P/0471133124.01._SCTHUMBZZZ_.jpg"></a></div><div class="typelist-note"><a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FExtraordinary-Delusions-Confusi%25C3%25B3n-Confusiones-Marketplace%2Fdp%2F0471133124%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1206647766%26sr%3D1-1&tag=ticksens-20&linkCode=ur2&camp=1789&creative=9325">Martin Fridson: Popular Delusions &amp; Confusion de Confusiones</a><img src="https://www.assoc-amazon.com/e/ir?t=ticksens-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="financial_news" class="module-typelist module">
+<h2 class="module-header">Financial News</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="http://news.myway.com/index/id/business|ap.html" >All Business</a></li>
+							<li class="module-list-item"><a title="" href="https://bloomberg.com/">Bloomberg</a></li>
+							<li class="module-list-item"><a title="" href="http://www.ceoexpress.com/default.asp" >CEOExpress</a></li>
+							<li class="module-list-item"><a title="" href="http://www.drudgereport.com/" >DRUDGE REPORT</a></li>
+							<li class="module-list-item"><a title="" href="http://investors.com/" >Investor's Business Daily</a></li>
+							<li class="module-list-item"><a title="" href="http://www.journalistexpress.com/" >Journalist Express</a></li>
+							<li class="module-list-item"><a title="" href="https://www.marketwatch.com/news/default.asp?siteid=mktw">MarketWatch</a></li>
+							<li class="module-list-item"><a title="" href="https://moneycentral.msn.com/home.asp">MSN Money</a></li>
+							<li class="module-list-item"><a title="" href="http://www.rttnews.com/Default.aspx" >RTT News</a></li>
+							<li class="module-list-item"><a title="" href="http://thestreet.com/" >The Street</a></li>
+							<li class="module-list-item"><a title="" href="https://online.wsj.com/public/us">WSJ Online</a></li>
+							<li class="module-list-item"><a title="" href="https://finance.yahoo.com/news/;_ylt=AkqZz5IX7Joyg2_g9M4CB66iuYdG;_ylu=X3oDMTEzb3BndGdlBG1pdAMEcG9zAzMEc2VjA01lZGlhTmF2aWdhdGlvbl9NYWlu;_ylg=X3oDMTFpNzk0NjhtBGludGwDdXMEbGFuZwNlbi11cwRwc3RhaWQDBHBzdGNhdANob21lBHB0A3NlY3Rpb25z;_ylv=3">Yahoo Finance News</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="message_boards" class="module-typelist module">
+<h2 class="module-header">Message Boards</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="http://www.boardcentral.com/" >BoardCentral</a></li>
+							<li class="module-list-item"><a title="" href="http://www.hotstockmarket.com/f/" >Hot Stock Market</a></li>
+							<li class="module-list-item"><a title="" href="http://investorshub.advfn.com/boards/hubstocks.aspx" >Investor's Hub</a></li>
+							<li class="module-list-item"><a title="" href="https://www.marketwatch.com/Community/groups">MarketWatch Discussions</a></li>
+							<li class="module-list-item"><a title="" href="http://www.siliconinvestor.com/" >SiliconInvestor</a></li>
+							<li class="module-list-item"><a title="" href="http://www.thelion.com/" >The Lion</a></li>
+							<li class="module-list-item"><a title="" href="http://www.traders-talk.com" >Traders-Talk</a></li>
+							<li class="module-list-item"><a title="" href="http://messages.yahoo.com/yahoo/Business_%26_Finance/index.html" >Yahoo Messages</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="economy" class="module-typelist module">
+<h2 class="module-header">Economy</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="https://www.aei.org/policy/">AEI - Research Areas</a></li>
+							<li class="module-list-item"><a title="" href="www.bea.gov" >Bureau of Econ Analysis</a></li>
+							<li class="module-list-item"><a title="" href="http://stats.bls.gov/" >Bureau of Labor Stats</a></li>
+							<li class="module-list-item"><a title="" href="http://research.cibcwm.com/res/Eco/EcoResearch.html" >CIBC Economics</a></li>
+							<li class="module-list-item"><a title="" href="http://www.conference-board.org/" >Conference Board</a></li>
+							<li class="module-list-item"><a title="" href="http://www.martincapital.com/index.php?page=economic&amp;view=currentecon" >Econ Data</a></li>
+							<li class="module-list-item"><a title="" href="http://www.economagic.com/" >Economagic</a></li>
+							<li class="module-list-item"><a title="" href="https://biz.yahoo.com/c/e.html">Economic Calendar</a></li>
+							<li class="module-list-item"><a title="" href="http://www.martincapital.com/index.php?page=economic&amp;view=currentecon" >Economic Charts</a></li>
+							<li class="module-list-item"><a title="" href="http://forecasts.org/economic-indicator/index.htm" >Economic Forecasts</a></li>
+							<li class="module-list-item"><a title="" href="http://www.economicindicators.gov/" >EconomicIndicators.gov</a></li>
+							<li class="module-list-item"><a title="" href="https://www.federalreserve.gov/">FederalReserve.gov</a></li>
+							<li class="module-list-item"><a title="" href="http://www.fedstats.gov/" >FedStats.gov</a></li>
+							<li class="module-list-item"><a title="" href="http://fintrend.com/charts/moore-inflation-predictor-mip/" >Financial Trend</a></li>
+							<li class="module-list-item"><a title="" href="https://www.economy.com/freelunch/">Free Lunch</a></li>
+							<li class="module-list-item"><a title="" href="http://inflationdata.com/Inflation/default.asp" >InflationData.com</a></li>
+							<li class="module-list-item"><a title="" href="https://www.oecd.org/unitedstates/">OECD</a></li>
+							<li class="module-list-item"><a title="" href="http://www.investmenttools.com/thestate/" >The State</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="fixed_income" class="module-typelist module">
+<h2 class="module-header">Fixed Income</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="http://cxa.gtm.idmanagedsolutions.com/finra/BondCenter/Default.aspx" >FINRA</a></li>
+							<li class="module-list-item"><a title="" href="http://www.investinginbonds.com/" >InvestingInBonds</a></li>
+							<li class="module-list-item"><a title="" href="http://www.investmenttools.com/bonds/" >InvestmentTools - Bonds</a></li>
+							<li class="module-list-item"><a title="" href="http://bonds.yahoo.com/rates.html" >Yahoo Bond Center</a></li>
+							<li class="module-list-item"><a title="" href="https://screen.yahoo.com/bonds.html">Yahoo Bond Screener</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="options" class="module-typelist module">
+<h2 class="module-header">Options</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="http://www.schaeffersresearch.com/streetools/options/option_montage.aspx" >Option Montage</a></li>
+							<li class="module-list-item"><a title="" href="http://www.optionetics.com/education/" >Optionetics</a></li>
+							<li class="module-list-item"><a title="" href="http://www.optiontradingpedia.com/" >Options Education</a></li>
+							<li class="module-list-item"><a title="" href="http://www.allstocks.com/edu/html/options_info..html" >Options Info</a></li>
+							<li class="module-list-item"><a title="" href="https://biz.yahoo.com/opt/">Yahoo Options Center</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="commodities_and_futures" class="module-typelist module">
+<h2 class="module-header">Commodities and Futures</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="http://www.barchart.com/futures/marketoverview" >Barchart Futures</a></li>
+							<li class="module-list-item"><a title="" href="http://www.commodityonline.com/news/" >Commodity News</a></li>
+							<li class="module-list-item"><a title="" href="http://www.eia.doe.gov/" >Energy Info Admin</a></li>
+							<li class="module-list-item"><a title="" href="http://forecasts.org/index2.htm" >Futures Forecasts</a></li>
+							<li class="module-list-item"><a title="" href="http://www.nadex.com/" >Nadex</a></li>
+							<li class="module-list-item"><a title="" href="http://www.investmenttools.com/futures/" >InvestmentTools</a></li>
+							<li class="module-list-item"><a title="" href="http://www.biz.uiowa.edu/iem/" >Iowa Electronic Markets</a></li>
+							<li class="module-list-item"><a title="" href="http://ogj.pennnet.com/" >Oil & Gas Journal</a></li>
+							<li class="module-list-item"><a title="" href="http://tfc-charts.w2d.com/" >Trading Charts-Commodities</a></li>
+							<li class="module-list-item"><a title="" href="http://www.worldoil.com/" >WorldOil</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="real_estate" class="module-typelist module">
+<h2 class="module-header">Real Estate</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="http://realestate.msn.com/" >MSN Real Estate</a></li>
+							<li class="module-list-item"><a title="" href="http://www.nahb.org/" >NAHB</a></li>
+							<li class="module-list-item"><a title="" href="http://www.realtor.org/research-and-statistics" >NAR Research</a></li>
+							<li class="module-list-item"><a title="" href="http://www.nreionline.com/" >NREIonline</a></li>
+							<li class="module-list-item"><a title="" href="http://realtor.com/Default.asp?poe=realtor" >Realtor.com</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="hedge_funds" class="module-typelist module">
+<h2 class="module-header">Hedge Funds</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="http://www.hedgefund-index.com/" >HedgeFund-Index</a></li>
+							<li class="module-list-item"><a title="" href="http://www.hedgeworld.com/" >HedgeWorld</a></li>
+							<li class="module-list-item"><a title="" href="http://www.hedgefundresearch.com/" >HF Research</a></li>
+							<li class="module-list-item"><a title="" href="http://www.investorsoffshore.com" >Investors Offshore</a></li>
+							<li class="module-list-item"><a title="" href="http://www.magnum.com/hedgefunds/abouthedgefunds.asp" >Magnum</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="online_brokers" class="module-typelist module">
+<h2 class="module-header">Online Brokers</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="http://www.allstocks.com/html/online_brokers___phone_numbers.html" >Online Broker Links</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="investor_education" class="module-typelist module">
+<h2 class="module-header">Investor Education</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="https://www.fool.com/school/basics/basics06.htm?source=InvAg">Fool Basics</a></li>
+							<li class="module-list-item"><a title="" href="http://www.westegg.com/inflation/" >Inflation Calculator</a></li>
+							<li class="module-list-item"><a title="" href="http://investopedia.com/" >Investopedia</a></li>
+							<li class="module-list-item"><a title="" href="http://www.investorwords.com/" >InvestorWords</a></li>
+							<li class="module-list-item"><a title="" href="https://finance.yahoo.com/education">Yahoo Education</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="international" class="module-typelist module">
+<h2 class="module-header">International</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="https://www.adr.com/" >ADR</a></li>
+							<li class="module-list-item"><a title="" href="https://www.imf.org">IMF</a></li>
+							<li class="module-list-item"><a title="" href="http://chinavestor.com/" >Invest China</a></li>
+							<li class="module-list-item"><a title="" href="https://www.oecd.org">OECD</a></li>
+							<li class="module-list-item"><a title="" href="http://www.allstocks.com/markets/World_Charts/world_charts.html" >World Charts</a></li>
+							<li class="module-list-item"><a title="" href="www.wto.org" >World Trade</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="portfolio_trackers" class="module-typelist module">
+<h2 class="module-header">Portfolio Trackers</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="https://us.etrade.com/home" >E-Trade</a></li>
+							<li class="module-list-item"><a title="" href="https://www.google.com/finance/portfolio?action=view&amp;pid=1">Google Portfolio</a></li>
+							<li class="module-list-item"><a title="" href="http://portfolio.morningstar.com/NewPort/Reg/AllView.aspx?pgid=wwhomepftab" >Morningstar Portfolio</a></li>
+							<li class="module-list-item"><a title="" href="https://moneycentral.msn.com/stock_portfolio">MSN Portfolio</a></li>
+							<li class="module-list-item"><a title="" href="http://edit.finance.yahoo.com/eh/eh?.src=quote&amp;.intl=us&amp;.done=" >Yahoo! Portfolio</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<div class="module-syndicate module">
+	<div class="module-content">
+	<a href="https://tickersense.typepad.com/ticker_sense/atom.xml"><i class="fas fa-rss"></i> Subscribe to this blog's feed</a>
+	</div>
+</div>
+<!-- list_inlcude.tt  -->
+<div id="rss" class="module-typelist module">
+<h2 class="module-header">RSS</h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note"><a href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http://tickersense.typepad.com/ticker_sense/index.rdf"><img runat="server" src="http://www.newsgator.com/images/ngsub1.gif" alt="Subscribe in NewsGator Online" border="0" /></a></div></li>
+							<li class="module-list-item"><div class="typelist-note"><a href="http://www.blogburst.com">
+<img border="0" src="http://blogburst.com/Resources/Images/blogburst_80x15.gif?id=B8j1pDsSJb3gz7ZnUqCxJTMq">
+</a></div></li>
+							<li class="module-list-item"><div class="typelist-note"><a href="https://feeds.feedburner.com/typepad/KXwF" title="Subscribe to my feed, Ticker Sense" rel="alternate" type="application/rss+xml"><img src="https://www.feedburner.com/fb/images/pub/fbapix.gif" alt="" style="border:0" /></a></div></li>
+							<li class="module-list-item"><div class="typelist-note"><a href="https://us.rd.yahoo.com/my/atm/Birinyi%20Associates%2C%20Inc./Ticker%20Sense/*http://add.my.yahoo.com/rss?url=http%3A//tickersense.typepad.com/ticker_sense/index.rdf"><img src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif" width="91" height="17" border="0" align="middle" alt="Add to My Yahoo!"></a></div></li>
+							<li class="module-list-item"><div class="typelist-note"><!--WEBBOT bot="Script" startspan PREVIEW="Site Meter" --><script type="text/javascript" language="JavaScript">var site="s21tickersense"</script><script type="text/javascript" language="JavaScript1.2" src="https://www.sitemeter.com/js/counter.js?site=s21tickersense"></script><noscript><a href="http://s21.sitemeter.com/stats.asp?site=s21tickersense" target="_top"><img src="http://s21.sitemeter.com/meter.asp?site=s21tickersense" alt="Site Meter" border="0"/></a></noscript><!-- Copyright (c)2005 Site Meter --><!--WEBBOT bot="Script" Endspan --></div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+
+
+
+						</div>
+					</div>
+					<div id="beta">
+						<div id="beta-inner" class="pkg">
+							
+
+
+
+
+
+<!-- CAROUSEL POSTS -->
+
+
+<!-- entry list sticky -->
+
+
+<!-- REGULAR POSTS -->
+
+
+
+
+
+
+	<div class="entry-author-birinyi entry-type-post entry" id="entry-6a00d8341c924353ef01b7c8adecb7970b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://tickersense.typepad.com/ticker_sense/2016/11/november-4th-blogger-sentiment-poll.html">November 4th Blogger Sentiment Poll</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01bb0950eaa4970d-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="Sentiment20161107" class="asset  asset-image at-xid-6a00d8341c924353ef01bb0950eaa4970d img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01bb0950eaa4970d-320wi" title="Sentiment20161107" /></a></p>
+<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b7c8adecb0970b-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="History20161107" class="asset  asset-image at-xid-6a00d8341c924353ef01b7c8adecb0970b img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b7c8adecb0970b-320wi" title="History20161107" /></a></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+							<script src="https://feeds.feedburner.com/~s/typepad/tickersense?i=https%3A%2F%2Ftickersense.typepad.com%2Fticker_sense%2F2016%2F11%2Fnovember-4th-blogger-sentiment-poll.html" type="text/javascript"></script>
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">November 09, 2016 </span> <span class="separator">|</span> <a class="permalink" href="https://tickersense.typepad.com/ticker_sense/2016/11/november-4th-blogger-sentiment-poll.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://tickersense.typepad.com/ticker_sense/2016/11/november-4th-blogger-sentiment-poll.html#comments">Comments (1)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+	<div class="entry-author-birinyi entry-type-post entry" id="entry-6a00d8341c924353ef01b8d237b8af970c">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://tickersense.typepad.com/ticker_sense/2016/11/october-31st-blogger-sentiment-poll.html">October 31st Blogger Sentiment Poll</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01bb0950ea85970d-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="Sentiment20161031" class="asset  asset-image at-xid-6a00d8341c924353ef01bb0950ea85970d img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01bb0950ea85970d-320wi" title="Sentiment20161031" /></a></p>
+<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b8d237b8aa970c-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="History20161031" class="asset  asset-image at-xid-6a00d8341c924353ef01b8d237b8aa970c img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b8d237b8aa970c-320wi" title="History20161031" /></a></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+							<script src="https://feeds.feedburner.com/~s/typepad/tickersense?i=https%3A%2F%2Ftickersense.typepad.com%2Fticker_sense%2F2016%2F11%2Foctober-31st-blogger-sentiment-poll.html" type="text/javascript"></script>
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">November 09, 2016 </span> <span class="separator">|</span> <a class="permalink" href="https://tickersense.typepad.com/ticker_sense/2016/11/october-31st-blogger-sentiment-poll.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://tickersense.typepad.com/ticker_sense/2016/11/october-31st-blogger-sentiment-poll.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+	<div class="entry-author-birinyi entry-type-post entry" id="entry-6a00d8341c924353ef01bb0950ea3d970d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://tickersense.typepad.com/ticker_sense/2016/11/october-24th-blogger-sentiment-poll.html">October 24th Blogger Sentiment Poll</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b8d237b86a970c-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="Sentiment20161024" class="asset  asset-image at-xid-6a00d8341c924353ef01b8d237b86a970c img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b8d237b86a970c-320wi" title="Sentiment20161024" /></a></p>
+<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01bb0950ea33970d-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="History20161024" class="asset  asset-image at-xid-6a00d8341c924353ef01bb0950ea33970d img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01bb0950ea33970d-320wi" title="History20161024" /></a></p>
+<p>&#0160;</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+							<script src="https://feeds.feedburner.com/~s/typepad/tickersense?i=https%3A%2F%2Ftickersense.typepad.com%2Fticker_sense%2F2016%2F11%2Foctober-24th-blogger-sentiment-poll.html" type="text/javascript"></script>
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">November 09, 2016 </span> <span class="separator">|</span> <a class="permalink" href="https://tickersense.typepad.com/ticker_sense/2016/11/october-24th-blogger-sentiment-poll.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://tickersense.typepad.com/ticker_sense/2016/11/october-24th-blogger-sentiment-poll.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+	<div class="entry-author-birinyi entry-type-post entry" id="entry-6a00d8341c924353ef01bb09484630970d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://tickersense.typepad.com/ticker_sense/2016/10/october-17th-blogger-sentiment-poll.html">October 17th Blogger Sentiment Poll</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01bb09484615970d-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="Sentiment20161017" class="asset  asset-image at-xid-6a00d8341c924353ef01bb09484615970d img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01bb09484615970d-320wi" title="Sentiment20161017" /></a></p>
+<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b8d22ef2b5970c-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="History20161017" class="asset  asset-image at-xid-6a00d8341c924353ef01b8d22ef2b5970c img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b8d22ef2b5970c-320wi" title="History20161017" /></a></p>
+<p><strong>Blogger Sentiment Poll Participants:</strong></p>
+<p><a href="https://247wallst.blogspot.com/">24/7 Wall St</a> (N) <a href="http://alephblog.com/">The Aleph Blog</a> (+) &#0160;<a href="http://www.nftrh.com/">NFTRH</a> (-) &#0160;<a href="http://thebullbear.com/">Bull Bear Trading</a> <a href="https://carlfutia.blogspot.com/">Carl Futia</a>&#0160;<a href="http://dashofinsight.com/">Dash of Insight</a> (+) <a href="http://www.dividendgrowthinvestor.com/">Dividend Growth Investor</a> (+) <a href="http://www.downsidehedge.com/">Downside Hedge</a> (+) <a href="http://caldaroew.spaces.live.com/personalspace.aspx">Elliot Wave Lives On</a> (+) <a href="http://www.markets.fallondpicks.com/">Fallond Stock Picks</a>&#0160; (-) <a href="http://www.econintersect.com/">Global Economic Intersection</a> (<strong>-</strong>) <a href="http://econintersect.com/b2evolution/blog3.php">GEI – Investing Blog</a> (-) <a href="https://humblestudentofthemarkets.blogspot.com/">Humble Student of the Markets</a> (+) <a href="https://mymoneylife.blogspot.com/">In the Money</a> <a href="https://thelearningcurve.blogspot.com/">Learning Curve</a> (-) <a href="http://maoxian.com/">MaoXian</a> <a href="http://moneyshow.com/">MoneyShow.com</a> <a href="https://nightowltrader.blogspot.com/">Night Owl Trader</a> (-) <a href="http://www.peridotcapital.com/blog">Peridot Capitalist</a> &#0160;(-) <a href="http://www.prometheusmi.com/">Prometheus Market Insight</a> (-) <a href="https://pugsma.wordpress.com/">PUG Stock Market Analysis</a> (+) <a href="https://quantinvestor.wordpress.com/">Quant Investor</a> (N) <a href="http://shankystechblog.com/blog/">Shanky’s Tech Blog</a> (-) <a href="http://www.ciovaccocapital.com/wordpress/">Short Takes</a> (N) <a href="https://garyscommonsense.blogspot.com/">Smart Money Tracker</a> (-) <a href="http://traders-talk.com/mb2/index.php?act=home">Traders-Talk</a> (+) <a href="http://www.valueplays.net/">ValuePlays</a> <a href="http://wishingwealthblog.com/">Wishing Wealth</a> <a href="http://www.zentrader.ca/blog/">Zentrader</a> (N) <a href="http://www.thestockadvisors.com/">TheStockAdvisors.com</a></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+							<script src="https://feeds.feedburner.com/~s/typepad/tickersense?i=https%3A%2F%2Ftickersense.typepad.com%2Fticker_sense%2F2016%2F10%2Foctober-17th-blogger-sentiment-poll.html" type="text/javascript"></script>
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">October 20, 2016 </span> <span class="separator">|</span> <a class="permalink" href="https://tickersense.typepad.com/ticker_sense/2016/10/october-17th-blogger-sentiment-poll.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://tickersense.typepad.com/ticker_sense/2016/10/october-17th-blogger-sentiment-poll.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+	<div class="entry-author-birinyi entry-type-post entry" id="entry-6a00d8341c924353ef01bb0941e7cf970d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://tickersense.typepad.com/ticker_sense/2016/10/october-10th-blogger-sentiment-poll.html">October 10th Blogger Sentiment Poll</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b8d2288785970c-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="Sentiment20161010" class="asset  asset-image at-xid-6a00d8341c924353ef01b8d2288785970c img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b8d2288785970c-320wi" title="Sentiment20161010" /></a></p>
+<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b7c89ebf0a970b-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="History20161003" class="asset  asset-image at-xid-6a00d8341c924353ef01b7c89ebf0a970b img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b7c89ebf0a970b-320wi" title="History20161003" /></a></p>
+<p><strong>Blogger Sentiment Poll Participants:</strong></p>
+<p><a href="https://247wallst.blogspot.com/">24/7 Wall St</a> <a href="http://alephblog.com/">The Aleph Blog</a> (+) &#0160;<a href="http://www.nftrh.com/">NFTRH</a> (-) &#0160;<a href="http://thebullbear.com/">Bull Bear Trading</a> <a href="https://carlfutia.blogspot.com/">Carl Futia</a>&#0160;<a href="http://dashofinsight.com/">Dash of Insight</a> (+) <a href="http://www.dividendgrowthinvestor.com/">Dividend Growth Investor</a> (+) <a href="http://www.downsidehedge.com/">Downside Hedge</a> (+) <a href="http://caldaroew.spaces.live.com/personalspace.aspx">Elliot Wave Lives On</a> (+) <a href="http://www.markets.fallondpicks.com/">Fallond Stock Picks</a>&#0160; (-) <a href="http://www.econintersect.com/">Global Economic Intersection</a> (<strong>-</strong>) <a href="http://econintersect.com/b2evolution/blog3.php">GEI – Investing Blog</a> (-) <a href="https://humblestudentofthemarkets.blogspot.com/">Humble Student of the Markets</a> (+) <a href="https://mymoneylife.blogspot.com/">In the Money</a> <a href="https://thelearningcurve.blogspot.com/">Learning Curve</a> (-) <a href="http://maoxian.com/">MaoXian</a> <a href="http://moneyshow.com/">MoneyShow.com</a> <a href="https://nightowltrader.blogspot.com/">Night Owl Trader</a> (-) <a href="http://www.peridotcapital.com/blog">Peridot Capitalist</a> (-) <a href="http://www.prometheusmi.com/">Prometheus Market Insight</a> (-) <a href="https://pugsma.wordpress.com/">PUG Stock Market Analysis</a> (N) <a href="https://quantinvestor.wordpress.com/">Quant Investor</a> &#0160;<a href="http://shankystechblog.com/blog/">Shanky’s Tech Blog</a> (-) <a href="http://www.ciovaccocapital.com/wordpress/">Short Takes</a> (+) <a href="https://garyscommonsense.blogspot.com/">Smart Money Tracker</a> (-) <a href="http://traders-talk.com/mb2/index.php?act=home">Traders-Talk</a> (+) <a href="http://www.valueplays.net/">ValuePlays</a> <a href="http://wishingwealthblog.com/">Wishing Wealth</a> <a href="http://www.zentrader.ca/blog/">Zentrader</a> (+) <a href="http://www.thestockadvisors.com/">TheStockAdvisors.com</a></p>
+<p>&#0160;</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+							<script src="https://feeds.feedburner.com/~s/typepad/tickersense?i=https%3A%2F%2Ftickersense.typepad.com%2Fticker_sense%2F2016%2F10%2Foctober-10th-blogger-sentiment-poll.html" type="text/javascript"></script>
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">October 11, 2016 </span> <span class="separator">|</span> <a class="permalink" href="https://tickersense.typepad.com/ticker_sense/2016/10/october-10th-blogger-sentiment-poll.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://tickersense.typepad.com/ticker_sense/2016/10/october-10th-blogger-sentiment-poll.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+	<div class="entry-author-birinyi entry-type-post entry" id="entry-6a00d8341c924353ef01bb093f3093970d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://tickersense.typepad.com/ticker_sense/2016/10/october-3rd-blogger-sentiment-poll.html">October 3rd Blogger Sentiment Poll</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b7c89bc1e2970b-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="Sentiment20161003" class="asset  asset-image at-xid-6a00d8341c924353ef01b7c89bc1e2970b img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b7c89bc1e2970b-320wi" title="Sentiment20161003" /></a></p>
+<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01bb093f3076970d-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="History20161003" class="asset  asset-image at-xid-6a00d8341c924353ef01bb093f3076970d img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01bb093f3076970d-320wi" title="History20161003" /></a></p>
+<p><strong>Blogger Sentiment Poll Participants:</strong></p>
+<p><a href="https://247wallst.blogspot.com/">24/7 Wall St</a> (N) <a href="http://alephblog.com/">The Aleph Blog</a> (+) &#0160;<a href="http://www.nftrh.com/">NFTRH</a> (N) &#0160;<a href="http://thebullbear.com/">Bull Bear Trading</a> <a href="https://carlfutia.blogspot.com/">Carl Futia</a>&#0160;<a href="http://dashofinsight.com/">Dash of Insight</a> (<strong>+</strong>) <a href="http://www.dividendgrowthinvestor.com/">Dividend Growth Investor</a> (+) <a href="http://www.downsidehedge.com/">Downside Hedge</a> (+) <a href="http://caldaroew.spaces.live.com/personalspace.aspx">Elliot Wave Lives On</a> (+) <a href="http://www.markets.fallondpicks.com/">Fallond Stock Picks</a>&#0160; (N) <a href="http://www.econintersect.com/">Global Economic Intersection</a> (<strong>-</strong>) <a href="http://econintersect.com/b2evolution/blog3.php">GEI – Investing Blog</a> (-) <a href="https://humblestudentofthemarkets.blogspot.com/">Humble Student of the Markets</a> (+) <a href="https://mymoneylife.blogspot.com/">In the Money</a> <a href="https://thelearningcurve.blogspot.com/">Learning Curve</a> (-) <a href="http://maoxian.com/">MaoXian</a> <a href="http://moneyshow.com/">MoneyShow.com</a> <a href="https://nightowltrader.blogspot.com/">Night Owl Trader</a> (-) <a href="http://www.peridotcapital.com/blog">Peridot Capitalist</a> (-) <a href="http://www.prometheusmi.com/">Prometheus Market Insight</a> (-) <a href="https://pugsma.wordpress.com/">PUG Stock Market Analysis</a> (N) <a href="https://quantinvestor.wordpress.com/">Quant Investor</a> (N) <a href="http://shankystechblog.com/blog/">Shanky’s Tech Blog</a> (-) <a href="http://www.ciovaccocapital.com/wordpress/">Short Takes</a> (+) <a href="https://garyscommonsense.blogspot.com/">Smart Money Tracker</a> (N) <a href="http://traders-talk.com/mb2/index.php?act=home">Traders-Talk</a> (+) <a href="http://www.valueplays.net/">ValuePlays</a> <a href="http://wishingwealthblog.com/">Wishing Wealth</a> <a href="http://www.zentrader.ca/blog/">Zentrader</a> (+) <a href="http://www.thestockadvisors.com/">TheStockAdvisors.com</a></p>
+<p>&#0160;</p>
+<p>&#0160;</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+							<script src="https://feeds.feedburner.com/~s/typepad/tickersense?i=https%3A%2F%2Ftickersense.typepad.com%2Fticker_sense%2F2016%2F10%2Foctober-3rd-blogger-sentiment-poll.html" type="text/javascript"></script>
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">October 05, 2016 </span> <span class="separator">|</span> <a class="permalink" href="https://tickersense.typepad.com/ticker_sense/2016/10/october-3rd-blogger-sentiment-poll.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://tickersense.typepad.com/ticker_sense/2016/10/october-3rd-blogger-sentiment-poll.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+	<div class="entry-author-birinyi entry-type-post entry" id="entry-6a00d8341c924353ef01b8d2224259970c">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://tickersense.typepad.com/ticker_sense/2016/09/september-26th-blogger-sentiment-poll.html">September 26th Blogger Sentiment Poll</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b8d2224231970c-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="Sentiment20160928" class="asset  asset-image at-xid-6a00d8341c924353ef01b8d2224231970c img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b8d2224231970c-320wi" title="Sentiment20160928" /></a></p>
+<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b8d2224241970c-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="History20160926" class="asset  asset-image at-xid-6a00d8341c924353ef01b8d2224241970c img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b8d2224241970c-320wi" title="History20160926" /></a></p>
+<p><strong>Blogger Sentiment Poll Participants:</strong></p>
+<p><a href="https://247wallst.blogspot.com/">24/7 Wall St</a> (N) <a href="http://alephblog.com/">The Aleph Blog</a> (+) &#0160;<a href="http://www.nftrh.com/">NFTRH</a> (N) &#0160;<a href="http://thebullbear.com/">Bull Bear Trading</a> <a href="https://carlfutia.blogspot.com/">Carl Futia</a>&#0160;<a href="http://dashofinsight.com/">Dash of Insight</a> (<strong>+</strong>) <a href="http://www.dividendgrowthinvestor.com/">Dividend Growth Investor</a> (+) <a href="http://www.downsidehedge.com/">Downside Hedge</a> (N) <a href="http://caldaroew.spaces.live.com/personalspace.aspx">Elliot Wave Lives On</a> (+) <a href="http://www.markets.fallondpicks.com/">Fallond Stock Picks</a>&#0160; (-) <a href="http://www.econintersect.com/">Global Economic Intersection</a> (<strong>-</strong>) <a href="http://econintersect.com/b2evolution/blog3.php">GEI – Investing Blog</a> (-) <a href="https://humblestudentofthemarkets.blogspot.com/">Humble Student of the Markets</a> (+) <a href="https://mymoneylife.blogspot.com/">In the Money</a> <a href="https://thelearningcurve.blogspot.com/">Learning Curve</a> (-) <a href="http://maoxian.com/">MaoXian</a> <a href="http://moneyshow.com/">MoneyShow.com</a> <a href="https://nightowltrader.blogspot.com/">Night Owl Trader</a> (-) <a href="http://www.peridotcapital.com/blog">Peridot Capitalist</a> &#0160;(-) <a href="http://www.prometheusmi.com/">Prometheus Market Insight</a> &#0160;<a href="https://pugsma.wordpress.com/">PUG Stock Market Analysis</a> (N) <a href="https://quantinvestor.wordpress.com/">Quant Investor</a> (N) <a href="http://shankystechblog.com/blog/">Shanky’s Tech Blog</a> (-) <a href="http://www.ciovaccocapital.com/wordpress/">Short Takes</a> (+) <a href="https://garyscommonsense.blogspot.com/">Smart Money Tracker</a> (+) <a href="http://traders-talk.com/mb2/index.php?act=home">Traders-Talk</a> <a href="http://www.valueplays.net/">ValuePlays</a> <a href="http://wishingwealthblog.com/">Wishing Wealth</a> (+) <a href="http://www.zentrader.ca/blog/">Zentrader</a> (+) <a href="http://www.thestockadvisors.com/">TheStockAdvisors.com</a></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+							<script src="https://feeds.feedburner.com/~s/typepad/tickersense?i=https%3A%2F%2Ftickersense.typepad.com%2Fticker_sense%2F2016%2F09%2Fseptember-26th-blogger-sentiment-poll.html" type="text/javascript"></script>
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">September 28, 2016 </span> <span class="separator">|</span> <a class="permalink" href="https://tickersense.typepad.com/ticker_sense/2016/09/september-26th-blogger-sentiment-poll.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://tickersense.typepad.com/ticker_sense/2016/09/september-26th-blogger-sentiment-poll.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+	<div class="entry-author-birinyi entry-type-post entry" id="entry-6a00d8341c924353ef01b7c894eed8970b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://tickersense.typepad.com/ticker_sense/2016/09/september-19th-blogger-sentiment-poll.html">September 19th Blogger Sentiment Poll</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b8d21ebf83970c-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="Sentiment20160919" class="asset  asset-image at-xid-6a00d8341c924353ef01b8d21ebf83970c img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b8d21ebf83970c-320wi" title="Sentiment20160919" /></a></p>
+<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b8d21ebfae970c-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="History20160919" class="asset  asset-image at-xid-6a00d8341c924353ef01b8d21ebfae970c img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b8d21ebfae970c-320wi" title="History20160919" /></a></p>
+<p><strong>Blogger Sentiment Poll Participants:</strong></p>
+<p><a href="https://247wallst.blogspot.com/">24/7 Wall St</a> (N) <a href="http://alephblog.com/">The Aleph Blog</a> (+) &#0160;<a href="http://www.nftrh.com/">NFTRH</a> (N) &#0160;<a href="http://thebullbear.com/">Bull Bear Trading</a> <a href="https://carlfutia.blogspot.com/">Carl Futia</a>&#0160;<a href="http://dashofinsight.com/">Dash of Insight</a> (<strong>+</strong>) <a href="http://www.dividendgrowthinvestor.com/">Dividend Growth Investor</a> (+) <a href="http://www.downsidehedge.com/">Downside Hedge</a> (N) <a href="http://caldaroew.spaces.live.com/personalspace.aspx">Elliot Wave Lives On</a> (+) <a href="http://www.markets.fallondpicks.com/">Fallond Stock Picks</a>&#0160; (+) <a href="http://www.econintersect.com/">Global Economic Intersection</a> (<strong>-</strong>) <a href="http://econintersect.com/b2evolution/blog3.php">GEI – Investing Blog</a> (-) <a href="https://humblestudentofthemarkets.blogspot.com/">Humble Student of the Markets</a> (+) <a href="https://mymoneylife.blogspot.com/">In the Money</a> <a href="https://thelearningcurve.blogspot.com/">Learning Curve</a> (-) <a href="http://maoxian.com/">MaoXian</a> <a href="http://moneyshow.com/">MoneyShow.com</a> <a href="https://nightowltrader.blogspot.com/">Night Owl Trader</a> (-) <a href="http://www.peridotcapital.com/blog">Peridot Capitalist</a> &#0160;(-) <a href="http://www.prometheusmi.com/">Prometheus Market Insight</a> &#0160;<a href="https://pugsma.wordpress.com/">PUG Stock Market Analysis</a> (N) <a href="https://quantinvestor.wordpress.com/">Quant Investor</a> (N) <a href="http://shankystechblog.com/blog/">Shanky’s Tech Blog</a> (-) <a href="http://www.ciovaccocapital.com/wordpress/">Short Takes</a> (+) <a href="https://garyscommonsense.blogspot.com/">Smart Money Tracker</a> (+) <a href="http://traders-talk.com/mb2/index.php?act=home">Traders-Talk</a> <a href="http://www.valueplays.net/">ValuePlays</a> <a href="http://wishingwealthblog.com/">Wishing Wealth</a> (+) <a href="http://www.zentrader.ca/blog/">Zentrader</a> (+) <a href="http://www.thestockadvisors.com/">TheStockAdvisors.com</a></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+							<script src="https://feeds.feedburner.com/~s/typepad/tickersense?i=https%3A%2F%2Ftickersense.typepad.com%2Fticker_sense%2F2016%2F09%2Fseptember-19th-blogger-sentiment-poll.html" type="text/javascript"></script>
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">September 19, 2016 </span> <span class="separator">|</span> <a class="permalink" href="https://tickersense.typepad.com/ticker_sense/2016/09/september-19th-blogger-sentiment-poll.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://tickersense.typepad.com/ticker_sense/2016/09/september-19th-blogger-sentiment-poll.html#comments">Comments (1)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+	<div class="entry-author-birinyi entry-type-post entry" id="entry-6a00d8341c924353ef01b8d21c565a970c">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://tickersense.typepad.com/ticker_sense/2016/09/september-12th-blogger-sentiment-poll.html">September 12th Blogger Sentiment Poll</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01bb09361011970d-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="Sentiment20160912" class="asset  asset-image at-xid-6a00d8341c924353ef01bb09361011970d img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01bb09361011970d-320wi" title="Sentiment20160912" /></a></p>
+<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b8d21c5646970c-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="History20160912" class="asset  asset-image at-xid-6a00d8341c924353ef01b8d21c5646970c img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b8d21c5646970c-320wi" title="History20160912" /></a></p>
+<p><strong>Blogger Sentiment Poll Participants:</strong></p>
+<p><a href="https://247wallst.blogspot.com/">24/7 Wall St</a> (N) <a href="http://alephblog.com/">The Aleph Blog</a> (+) &#0160;<a href="http://www.nftrh.com/">NFTRH</a> (N) &#0160;<a href="http://thebullbear.com/">Bull Bear Trading</a> <a href="https://carlfutia.blogspot.com/">Carl Futia</a>&#0160;<a href="http://dashofinsight.com/">Dash of Insight</a> (<strong>+</strong>) <a href="http://www.dividendgrowthinvestor.com/">Dividend Growth Investor</a> (+) <a href="http://www.downsidehedge.com/">Downside Hedge</a> (+) <a href="http://caldaroew.spaces.live.com/personalspace.aspx">Elliot Wave Lives On</a> (+) <a href="http://www.markets.fallondpicks.com/">Fallond Stock Picks</a> &#0160;(-) <a href="http://www.econintersect.com/">Global Economic Intersection</a> (<strong>-</strong>) <a href="http://econintersect.com/b2evolution/blog3.php">GEI – Investing Blog</a> (-) <a href="https://humblestudentofthemarkets.blogspot.com/">Humble Student of the Markets</a> (+) <a href="https://mymoneylife.blogspot.com/">In the Money</a> <a href="https://thelearningcurve.blogspot.com/">Learning Curve</a> (-) <a href="http://maoxian.com/">MaoXian</a> <a href="http://moneyshow.com/">MoneyShow.com</a> <a href="https://nightowltrader.blogspot.com/">Night Owl Trader</a> (-) <a href="http://www.peridotcapital.com/blog">Peridot Capitalist</a> &#0160;(-) <a href="http://www.prometheusmi.com/">Prometheus Market Insight</a> &#0160;<a href="https://pugsma.wordpress.com/">PUG Stock Market Analysis</a> (-) <a href="https://quantinvestor.wordpress.com/">Quant Investor</a> (N) <a href="http://shankystechblog.com/blog/">Shanky’s Tech Blog</a> (-) <a href="http://www.ciovaccocapital.com/wordpress/">Short Takes</a> (+) <a href="https://garyscommonsense.blogspot.com/">Smart Money Tracker</a> (N) <a href="http://traders-talk.com/mb2/index.php?act=home">Traders-Talk</a> <a href="http://www.valueplays.net/">ValuePlays</a> <a href="http://wishingwealthblog.com/">Wishing Wealth</a> (+) <a href="http://www.zentrader.ca/blog/">Zentrader</a> (+)</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+							<script src="https://feeds.feedburner.com/~s/typepad/tickersense?i=https%3A%2F%2Ftickersense.typepad.com%2Fticker_sense%2F2016%2F09%2Fseptember-12th-blogger-sentiment-poll.html" type="text/javascript"></script>
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">September 13, 2016 </span> <span class="separator">|</span> <a class="permalink" href="https://tickersense.typepad.com/ticker_sense/2016/09/september-12th-blogger-sentiment-poll.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://tickersense.typepad.com/ticker_sense/2016/09/september-12th-blogger-sentiment-poll.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+	<div class="entry-author-birinyi entry-type-post entry" id="entry-6a00d8341c924353ef01b8d219c68d970c">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://tickersense.typepad.com/ticker_sense/2016/09/september-6th-blogger-sentiment-poll.html">September 6th Blogger Sentiment Poll</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01bb09337d9a970d-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="Sentiment20160905" class="asset  asset-image at-xid-6a00d8341c924353ef01bb09337d9a970d img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01bb09337d9a970d-320wi" title="Sentiment20160905" /></a></p>
+<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01bb09337da1970d-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="History20160905" class="asset  asset-image at-xid-6a00d8341c924353ef01bb09337da1970d img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01bb09337da1970d-320wi" title="History20160905" /></a></p>
+<p><strong>Blogger Sentiment Poll Participants:</strong></p>
+<p><a href="https://247wallst.blogspot.com/">24/7 Wall St</a> <a href="http://alephblog.com/">The Aleph Blog</a> (+) &#0160;<a href="http://www.nftrh.com/">NFTRH</a> (N) &#0160;<a href="http://thebullbear.com/">Bull Bear Trading</a> <a href="https://carlfutia.blogspot.com/">Carl Futia</a>&#0160;(+)&#0160;<a href="http://dashofinsight.com/">Dash of Insight</a> (<strong>+</strong>) <a href="http://www.dividendgrowthinvestor.com/">Dividend Growth Investor</a> (+) <a href="http://www.downsidehedge.com/">Downside Hedge</a> (+) <a href="http://caldaroew.spaces.live.com/personalspace.aspx">Elliot Wave Lives On</a> (+) <a href="http://www.markets.fallondpicks.com/">Fallond Stock Picks</a> (+) <a href="http://www.econintersect.com/">Global Economic Intersection</a> (<strong>-</strong>) <a href="http://econintersect.com/b2evolution/blog3.php">GEI – Investing Blog</a> (-) <a href="https://humblestudentofthemarkets.blogspot.com/">Humble Student of the Markets</a> (+) <a href="https://mymoneylife.blogspot.com/">In the Money</a> <a href="https://thelearningcurve.blogspot.com/">Learning Curve</a> (-) <a href="http://maoxian.com/">MaoXian</a> <a href="http://moneyshow.com/">MoneyShow.com</a> <a href="https://nightowltrader.blogspot.com/">Night Owl Trader</a> (-) <a href="http://www.peridotcapital.com/blog">Peridot Capitalist</a> &#0160;(-) <a href="http://www.prometheusmi.com/">Prometheus Market Insight</a> &#0160;<a href="https://pugsma.wordpress.com/">PUG Stock Market Analysis</a> (+) <a href="https://quantinvestor.wordpress.com/">Quant Investor</a> (N) <a href="http://shankystechblog.com/blog/">Shanky’s Tech Blog</a> (-) <a href="http://www.ciovaccocapital.com/wordpress/">Short Takes</a> (+) <a href="https://garyscommonsense.blogspot.com/">Smart Money Tracker</a> (N) <a href="http://traders-talk.com/mb2/index.php?act=home">Traders-Talk</a> <a href="http://www.valueplays.net/">ValuePlays</a> <a href="http://wishingwealthblog.com/">Wishing Wealth</a> (+) <a href="http://www.zentrader.ca/blog/">Zentrader</a> (+)</p>
+<p>&#0160;</p>
+<p>&#0160;</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+							<script src="https://feeds.feedburner.com/~s/typepad/tickersense?i=https%3A%2F%2Ftickersense.typepad.com%2Fticker_sense%2F2016%2F09%2Fseptember-6th-blogger-sentiment-poll.html" type="text/javascript"></script>
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">September 06, 2016 </span> <span class="separator">|</span> <a class="permalink" href="https://tickersense.typepad.com/ticker_sense/2016/09/september-6th-blogger-sentiment-poll.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://tickersense.typepad.com/ticker_sense/2016/09/september-6th-blogger-sentiment-poll.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+	<div class="entry-author-birinyi entry-type-post entry" id="entry-6a00d8341c924353ef01b7c88d3791970b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://tickersense.typepad.com/ticker_sense/2016/08/august-29th-blogger-sentiment-poll.html">August 29th Blogger Sentiment Poll</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b7c88d374d970b-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="Sentiment20160829" class="asset  asset-image at-xid-6a00d8341c924353ef01b7c88d374d970b img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b7c88d374d970b-320wi" title="Sentiment20160829" /></a></p>
+<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01bb09309d59970d-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="History20160829" class="asset  asset-image at-xid-6a00d8341c924353ef01bb09309d59970d img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01bb09309d59970d-320wi" title="History20160829" /></a></p>
+<p><strong>Blogger Sentiment Poll Participants:</strong></p>
+<p><a href="https://247wallst.blogspot.com/">24/7 Wall St</a> (N) <a href="http://alephblog.com/">The Aleph Blog</a> (+) &#0160;<a href="http://www.nftrh.com/">NFTRH</a> (N) &#0160;<a href="http://thebullbear.com/">Bull Bear Trading</a> <a href="https://carlfutia.blogspot.com/">Carl Futia</a>&#0160;(+)&#0160;<a href="http://dashofinsight.com/">Dash of Insight</a> (<strong>+</strong>) <a href="http://www.dividendgrowthinvestor.com/">Dividend Growth Investor</a> (+) <a href="http://www.downsidehedge.com/">Downside Hedge</a> (+) <a href="http://caldaroew.spaces.live.com/personalspace.aspx">Elliot Wave Lives On</a> (+) <a href="http://www.markets.fallondpicks.com/">Fallond Stock Picks</a> (+) <a href="http://www.econintersect.com/">Global Economic Intersection</a> (<strong>-</strong>) <a href="http://econintersect.com/b2evolution/blog3.php">GEI – Investing Blog</a> (-) <a href="https://humblestudentofthemarkets.blogspot.com/">Humble Student of the Markets</a> (+) <a href="https://mymoneylife.blogspot.com/">In the Money</a> <a href="https://thelearningcurve.blogspot.com/">Learning Curve</a> (-) <a href="http://maoxian.com/">MaoXian</a> <a href="http://moneyshow.com/">MoneyShow.com</a> <a href="https://nightowltrader.blogspot.com/">Night Owl Trader</a> (-) <a href="http://www.peridotcapital.com/blog">Peridot Capitalist</a> (-) <a href="http://www.prometheusmi.com/">Prometheus Market Insight</a> &#0160;<a href="https://pugsma.wordpress.com/">PUG Stock Market Analysis</a> (+) <a href="https://quantinvestor.wordpress.com/">Quant Investor</a> (N) <a href="http://shankystechblog.com/blog/">Shanky’s Tech Blog</a> (-) <a href="http://www.ciovaccocapital.com/wordpress/">Short Takes</a> (N) <a href="https://garyscommonsense.blogspot.com/">Smart Money Tracker</a> (N) <a href="http://traders-talk.com/mb2/index.php?act=home">Traders-Talk</a> <a href="http://www.valueplays.net/">ValuePlays</a> <a href="http://wishingwealthblog.com/">Wishing Wealth</a> (+) <a href="http://www.zentrader.ca/blog/">Zentrader</a> (+)</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+							<script src="https://feeds.feedburner.com/~s/typepad/tickersense?i=https%3A%2F%2Ftickersense.typepad.com%2Fticker_sense%2F2016%2F08%2Faugust-29th-blogger-sentiment-poll.html" type="text/javascript"></script>
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">August 29, 2016 </span> <span class="separator">|</span> <a class="permalink" href="https://tickersense.typepad.com/ticker_sense/2016/08/august-29th-blogger-sentiment-poll.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://tickersense.typepad.com/ticker_sense/2016/08/august-29th-blogger-sentiment-poll.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+	<div class="entry-author-birinyi entry-type-post entry" id="entry-6a00d8341c924353ef01bb092de580970d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://tickersense.typepad.com/ticker_sense/2016/08/august-22nd-blogger-sentiment-poll.html">August 22nd Blogger Sentiment Poll</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b7c88a89f2970b-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="Sentiment20160822" class="asset  asset-image at-xid-6a00d8341c924353ef01b7c88a89f2970b img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01b7c88a89f2970b-320wi" title="Sentiment20160822" /></a></p>
+<p><a class="asset-img-link" href="https://tickersense.typepad.com/.a/6a00d8341c924353ef01bb092de56a970d-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false" style="display: inline;"><img alt="History20160822" class="asset  asset-image at-xid-6a00d8341c924353ef01bb092de56a970d img-responsive" src="https://tickersense.typepad.com/.a/6a00d8341c924353ef01bb092de56a970d-320wi" title="History20160822" /></a></p>
+<p><strong>Blogger Sentiment Poll Participants:</strong></p>
+<p><a href="https://247wallst.blogspot.com/">24/7 Wall St</a> (N) <a href="http://alephblog.com/">The Aleph Blog</a> (+) &#0160;<a href="http://www.nftrh.com/">NFTRH</a> &#0160;<a href="http://thebullbear.com/">Bull Bear Trading</a> <a href="https://carlfutia.blogspot.com/">Carl Futia</a>&#0160;(+)&#0160;<a href="http://dashofinsight.com/">Dash of Insight</a> (<strong>+</strong>) <a href="http://www.dividendgrowthinvestor.com/">Dividend Growth Investor</a> (+) <a href="http://www.downsidehedge.com/">Downside Hedge</a> (+) <a href="http://caldaroew.spaces.live.com/personalspace.aspx">Elliot Wave Lives On</a> &#0160;<a href="http://www.markets.fallondpicks.com/">Fallond Stock Picks</a> (N) <a href="http://www.econintersect.com/">Global Economic Intersection</a> (<strong>-</strong>) <a href="http://econintersect.com/b2evolution/blog3.php">GEI – Investing Blog</a> (-) <a href="https://humblestudentofthemarkets.blogspot.com/">Humble Student of the Markets</a> (+) <a href="https://mymoneylife.blogspot.com/">In the Money</a> <a href="https://thelearningcurve.blogspot.com/">Learning Curve</a> (-) <a href="http://maoxian.com/">MaoXian</a> <a href="http://moneyshow.com/">MoneyShow.com</a> <a href="https://nightowltrader.blogspot.com/">Night Owl Trader</a> (-) <a href="http://www.peridotcapital.com/blog">Peridot Capitalist</a> &#0160;(-) <a href="http://www.prometheusmi.com/">Prometheus Market Insight</a> &#0160;<a href="https://pugsma.wordpress.com/">PUG Stock Market Analysis</a> (N) <a href="https://quantinvestor.wordpress.com/">Quant Investor</a> (N) <a href="http://shankystechblog.com/blog/">Shanky’s Tech Blog</a> (-) <a href="http://www.ciovaccocapital.com/wordpress/">Short Takes</a> (N) <a href="https://garyscommonsense.blogspot.com/">Smart Money Tracker</a> (N) <a href="http://traders-talk.com/mb2/index.php?act=home">Traders-Talk</a> <a href="http://www.valueplays.net/">ValuePlays</a> <a href="http://wishingwealthblog.com/">Wishing Wealth</a> (+) <a href="http://www.zentrader.ca/blog/">Zentrader</a> (+)</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+							<script src="https://feeds.feedburner.com/~s/typepad/tickersense?i=https%3A%2F%2Ftickersense.typepad.com%2Fticker_sense%2F2016%2F08%2Faugust-22nd-blogger-sentiment-poll.html" type="text/javascript"></script>
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">August 22, 2016 </span> <span class="separator">|</span> <a class="permalink" href="https://tickersense.typepad.com/ticker_sense/2016/08/august-22nd-blogger-sentiment-poll.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://tickersense.typepad.com/ticker_sense/2016/08/august-22nd-blogger-sentiment-poll.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+			<div class="pager-bottom pager-entries pager content-nav">
+		<div class="pager-inner">
+			
+			
+			<span class="pager-right">
+				<a href="https://tickersense.typepad.com/ticker_sense/page/2/"><span class="pager-label">Next</span>
+					<span class="chevron">&#187;</span></a>
+			</span>
+		</div>
+	</div>
+	
+	
+
+        
+
+
+
+						</div>
+					</div>
+					<div id="gamma">
+						<div id="gamma-inner" class="pkg">
+							<!-- sidebar2 -->
+
+
+<!-- list_inlcude.tt  -->
+<div id="blogger_sentiment" class="module-typelist module">
+<h2 class="module-header">Blogger Sentiment</h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note"><a href="https://tickersense.typepad.com/ticker_sense/2015/02/February-9th-blogger-sentiment-poll.html"><img src="https://tickersense.typepad.com/SmallSentiment/small20150209.jpg"></a>
+ 
+
+The Ticker Sense Blogger Sentiment Poll is a survey of the web's most prominent investment bloggers, asking "What is your outlook on the S&P 500 for the next 30 days?"  Conducted on a weekly basis, the poll is sent to participants each Thursday, and the results are released on Ticker Sense each Monday.  The goal of this poll is to gain a consensus view on the market from the top investment bloggers -- a community that continues to grow as a valued source of investment insight.  © Copyright 2015 Ticker Sense Blogger Sentiment Poll</div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="about_us" class="module-typelist module">
+<h2 class="module-header">About Us</h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note"><a href="https://tickersense.typepad.com/aboutbirinyi"><img src="https://tickersense.typepad.com/aboutus.png"></a>
+
+<script src="https://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2698209-1";
+urchinTracker();
+</script></div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="birinyi_in_the_news" class="module-typelist module">
+<h2 class="module-header">Birinyi In the News</h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note"><script src="https://feeds.feedburner.com/GoogleAlerts-BirinyiAssociates?format=sigpro" type="text/javascript"></script><noscript><p>Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/GoogleAlerts-BirinyiAssociates"></a><br/>Powered by FeedBurner</p> </noscript></div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="blogger_sentiment_participants" class="module-typelist module">
+<h2 class="module-header">Blogger Sentiment Participants</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="http://www.247wallst.com" >24/7 Wall St.</a></li>
+							<li class="module-list-item"><a title="" href="http://dashofinsight.com" >A Dash of Insight</a></li>
+							<li class="module-list-item"><a title="" href="http://biiwii.com/wordpress/" >Biiwii</a></li>
+							<li class="module-list-item"><a title="" href="http://thebullbear.com" >BullBear Trading</a></li>
+							<li class="module-list-item"><a title="" href="https://carlfutia.blogspot.com">Carl Futia</a></li>
+							<li class="module-list-item"><a title="" href="http://alephblog.com/" >The Aleph Blog</a></li>
+							<li class="module-list-item"><a title="" href="http://wallstreetsectorselector.com/" >Wall Street Sector Selector</a></li>
+							<li class="module-list-item"><a title="" href="https://www.mymoneylife.blogspot.com/">In The Money</a></li>
+							<li class="module-list-item"><a title="" href="https://nightowltrader.blogspot.com/">Night Owl Trader</a></li>
+							<li class="module-list-item"><a title="" href="http://www.maoxian.com" >MaoXian</a></li>
+							<li class="module-list-item"><a title="" href="http://www.markets.fallondpicks.com/" >Fallond Stock Picks</a></li>
+							<li class="module-list-item"><a title="" href="https://pugsma.wordpress.com">PUG Stock Market Analysis</a></li>
+							<li class="module-list-item"><a title="" href="https://shankystechblog.blogspot.com/">Shanky's Tech Blog</a></li>
+							<li class="module-list-item"><a title="" href="http://www.ciovaccocapital.com/wordpress/" >Short Takes</a></li>
+							<li class="module-list-item"><a title="" href="http://www.dividendgrowthinvestor.com/" >Dividend Growth Investor</a></li>
+							<li class="module-list-item"><a title="" href="https://smartmoneytracker.blogspot.com/">Smart Money Tracker</a></li>
+							<li class="module-list-item"><a title="" href="http://caldaroew.spaces.msn.com/personalspace.aspx" >The Elliott Wave lives on</a></li>
+							<li class="module-list-item"><a title="" href="http://www.prometheusmi.com/" >Prometheus Market Insight</a></li>
+							<li class="module-list-item"><a title="" href="https://humblestudentofthemarkets.blogspot.com/">Humble Student of the Markets</a></li>
+							<li class="module-list-item"><a title="" href="https://thelearningcurve.blogspot.com">The Learning Curve</a></li>
+							<li class="module-list-item"><a title="" href="http://timiacono.com/" >The Mess That Greenspan Made</a></li>
+							<li class="module-list-item"><a title="" href="http://www.peridotcapital.com/blog" >The Peridot Capitalist</a></li>
+							<li class="module-list-item"><a title="" href="http://traders-talk.com/mb2/index.php?act=home" >Traders-Talk</a></li>
+							<li class="module-list-item"><a title="" href="http://www.moneyshow.com" >MoneyShow.com</a></li>
+							<li class="module-list-item"><a title="" href="http://www.valueplays.net/" >ValuePlays</a></li>
+							<li class="module-list-item"><a title="" href="https://vixandmore.blogspot.com/">VIX and More</a></li>
+							<li class="module-list-item"><a title="" href="http://wishingwealthblog.com" >Wishing Wealth</a></li>
+							<li class="module-list-item"><a title="" href="http://www.zentrader.ca/blog/" >Zentrader</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<div class="module-categories module">
+	<h2 class="module-header"><a href="https://tickersense.typepad.com/ticker_sense/archives.html">Categories</a></h2>
+	<div class="module-content">
+                   <ul class="module-list">
+
+
+                        <li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/2007_financial_blogger_outlook/">2007 Financial Blogger Outlook</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/laszlo_birinyi/">Birinyi Associates</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/birinyi_polls/">Birinyi Polls</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/blogger_sentiment_poll/">Blogger Sentiment Poll</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/books/">Books</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/charts_and_tables/">Charts and Tables</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/economy/">Economy</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/guess_the_dow/">Guess the Dow</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/insider_actions/">Insider Actions</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/international/">International</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/market_analysis/">Market Analysis</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/market_musings/">Market Musings</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/stock_analysis/">Stock Analysis</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/trading/">Trading</a></li>
+</span>
+		</ul>
+
+<a style="font-size:85%;display:none;" class="cat-more" href="https://tickersense.typepad.com/ticker_sense/archives.html">See More</a>
+	</div>
+</div>
+	<div class="module-archives module">
+		<h2 class="module-header"><a href="https://tickersense.typepad.com/ticker_sense/archives.html">Archives</a></h2>
+		<div class="module-content">
+												<ul class="module-list">
+				
+				<li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/2016/week45/index.html">November 6, 2016 - November 12, 2016</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/2016/week42/index.html">October 16, 2016 - October 22, 2016</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/2016/week41/index.html">October 9, 2016 - October 15, 2016</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/2016/week40/index.html">October 2, 2016 - October 8, 2016</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/2016/week39/index.html">September 25, 2016 - October 1, 2016</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/2016/week38/index.html">September 18, 2016 - September 24, 2016</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/2016/week37/index.html">September 11, 2016 - September 17, 2016</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/2016/week36/index.html">September 4, 2016 - September 10, 2016</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/2016/week35/index.html">August 28, 2016 - September 3, 2016</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://tickersense.typepad.com/ticker_sense/2016/week34/index.html">August 21, 2016 - August 27, 2016</a></li>
+									</ul>
+									<p class="module-more"><a href="https://tickersense.typepad.com/ticker_sense/archives.html">More...</a></p>
+				
+				
+			
+		</div>
+	</div>
+
+<!-- list_inlcude.tt  -->
+<div id="charts_and_quotes" class="module-typelist module">
+<h2 class="module-header">Charts and Quotes</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="http://barchart.com/" >BarChart</a></li>
+							<li class="module-list-item"><a title="" href="http://bigcharts.marketwatch.com/" >BigCharts</a></li>
+							<li class="module-list-item"><a title="" href="http://www.equitytrader.com/graph/default.php?issue=EBAY&amp;list=&amp;type=0&amp;period=0&amp;points=2&amp;refresh=" >EquityTrader</a></li>
+							<li class="module-list-item"><a title="" href="http://quotes.freerealtime.com/dl/frt/S" >FreeRealTime</a></li>
+							<li class="module-list-item"><a title="" href="http://stockcharts.com/" >StockCharts</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="technicals_and_trading" class="module-typelist module">
+<h2 class="module-header">Technicals and Trading</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="http://www.tradingday.com/" >After-Hours Trading</a></li>
+							<li class="module-list-item"><a title="" href="http://www.equitytrader.com/" >EquityTrader</a></li>
+							<li class="module-list-item"><a title="" href="http://www.hardrightedge.com/trader.htm" >MorningTrader</a></li>
+							<li class="module-list-item"><a title="" href="https://www.marketwatch.com/tools/stockresearch/screener/default.asp?siteid=mktw&amp;dist=&amp;">MW IntradayScreener</a></li>
+							<li class="module-list-item"><a title="" href="http://www.nasdaq.com/" >Nasdaq.com</a></li>
+							<li class="module-list-item"><a title="" href="http://www.tradingday.com/c/afterhourstrading/pmpg.html" >Pre-Market Gainers</a></li>
+							<li class="module-list-item"><a title="" href="http://www.stock100.com/" >Stock100</a></li>
+							<li class="module-list-item"><a title="" href="http://www.stockconsultant.com/" >StockConsultant</a></li>
+							<li class="module-list-item"><a title="" href="http://www.stockta.com/" >StockTA</a></li>
+							<li class="module-list-item"><a title="" href="https://knighttrader.blogspot.com/">The Knight Trader</a></li>
+							<li class="module-list-item"><a title="" href="http://www.tradetrek.com/NN/default.asp?symbol=EBAY" >Tradetrek</a></li>
+							<li class="module-list-item"><a title="" href="http://www.tradingmarkets.com/.site/" >TradingMarkets</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="fundamentals" class="module-typelist module">
+<h2 class="module-header">Fundamentals</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="https://finance.yahoo.com/q/bs?s=AA&amp;annual">Balance Sheet</a></li>
+							<li class="module-list-item"><a title="" href="http://www.investhelp.com/buybacks.phtml" >Buybacks</a></li>
+							<li class="module-list-item"><a title="" href="https://finance.yahoo.com/q/cf?s=AA&amp;annual">Cash Flow</a></li>
+							<li class="module-list-item"><a title="" href="https://www.fool.com/school/basics/basics06.htm?source=InvAg">Fool Intro</a></li>
+							<li class="module-list-item"><a title="" href="https://finance.yahoo.com/q/is?s=AA">Income Statement</a></li>
+							<li class="module-list-item"><a title="" href="https://finance.yahoo.com/q/it?s=AA">Insider Transactions</a></li>
+							<li class="module-list-item"><a title="" href="https://moneycentral.msn.com/investor/invsub/ownership/ownership.asp?Symbol=aa">Institutional Ownership</a></li>
+							<li class="module-list-item"><a title="" href="http://www.investopedia.com/university/fundamentalanalysis/" >Investopedia Intro</a></li>
+							<li class="module-list-item"><a title="" href="https://www.sec.gov/edgar.shtml">SEC Filings</a></li>
+							<li class="module-list-item"><a title="" href="https://finance.yahoo.com/q/pr?s=AA">Stock Profile</a></li>
+							<li class="module-list-item"><a title="" href="http://www.valuengine.com/main" >Valuengine</a></li>
+							<li class="module-list-item"><a title="" href="http://www.winninginvesting.com/basic_training.htm" >WinningInvesting</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="earnings" class="module-typelist module">
+<h2 class="module-header">Earnings</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="https://biz.yahoo.com/z/extreme.html">Earnings Surprises</a></li>
+							<li class="module-list-item"><a title="" href="http://www.earnings.com/highlight.asp?client=cb" >Earnings.com</a></li>
+							<li class="module-list-item"><a title="" href="http://www.earningswhispers.com/" >EarningsWhispers</a></li>
+							<li class="module-list-item"><a title="" href="http://www.whispernumber.com/index.jsp" >WhisperNumber</a></li>
+							<li class="module-list-item"><a title="" href="https://biz.yahoo.com/research/earncal/today.html">Yahoo Earnings</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="analyst_actions" class="module-typelist module">
+<h2 class="module-header">Analyst Actions</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="https://biz.yahoo.com/a/ba/a11.html">Analyst Performance</a></li>
+							<li class="module-list-item"><a title="" href="http://www.briefing.com/investor/calendars/upgrades-downgrades/" >Daily Upgrades/Downgrades</a></li>
+							<li class="module-list-item"><a title="" href="https://screen.yahoo.com/reports.html">Report Screener</a></li>
+							<li class="module-list-item"><a title="" href="http://www.investorguide.com/stock-analysis.cgi?ticker=AA" >Stock Upgrades/Downgrades</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="equity_markets" class="module-typelist module">
+<h2 class="module-header">Equity Markets</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="http://www.allstocks.com/" >AllStocks</a></li>
+							<li class="module-list-item"><a title="" href="http://www.amtd.com/newsroom/investorIndex.cfm" >Ameritrade Index</a></li>
+							<li class="module-list-item"><a title="" href="http://bigcharts.marketwatch.com/industry/bigcharts-com/" >BigCharts</a></li>
+							<li class="module-list-item"><a title="" href="http://briefing.com/" >Briefing</a></li>
+							<li class="module-list-item"><a title="" href="http://www.investmenttools.com/equities/weekly/market_vane_bullish__.htm" >Bullish Indicator</a></li>
+							<li class="module-list-item"><a title="" href="http://www.comstockfunds.com/" >ComstockFunds</a></li>
+							<li class="module-list-item"><a title="" href="http://www.equitytrader.com/structure/default.php" >EquityTrader Industry</a></li>
+							<li class="module-list-item"><a title="" href="https://biz.yahoo.com/ic/">Industry Center</a></li>
+							<li class="module-list-item"><a title="" href="http://www.investmenttools.com/equities/" >InvestmentTools</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="stock_screeners" class="module-typelist module">
+<h2 class="module-header">Stock Screeners</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="http://www.aaii.com/stockscreens/" >AAII Screener</a></li>
+							<li class="module-list-item"><a title="" href="http://finviz.com/" >Finviz</a></li>
+							<li class="module-list-item"><a title="" href="https://www.google.com/finance#stockscreener">Google Finance</a></li>
+							<li class="module-list-item"><a title="" href="https://www.marketwatch.com/tools/stockresearch/screener/default.asp?siteid=mktw&amp;dist=&amp;">MarketWatch Screener</a></li>
+							<li class="module-list-item"><a title="" href="http://screen.morningstar.com/stockselector.html " >Morningstar Screener</a></li>
+							<li class="module-list-item"><a title="" href="http://screen.finance.yahoo.com/newscreener.html" >Yahoo Screener</a></li>
+							<li class="module-list-item"><a title="" href="http://www.zacks.com/research/screening/index.php" >Zacks</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="stock_graders" class="module-typelist module">
+<h2 class="module-header">Stock Graders</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="http://money.msn.com/investing/stockscouter-stock-ratings.aspx" >MSN Stock Ratings</a></li>
+							<li class="module-list-item"><a title="" href="http://www.navellier.com/tools_research/log_in.aspx" >Navellier</a></li>
+							<li class="module-list-item"><a title="" href="http://www.stockconsultant.com/" >StockConsultant</a></li>
+							<li class="module-list-item"><a title="" href="http://www.stockta.com/" >StockTA</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="exchange_traded_funds" class="module-typelist module">
+<h2 class="module-header">Exchange Traded Funds</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a href="http://etfdb.com/">ETF Database</a><br /></li>
+							<li class="module-list-item"><a href="http://www.etftrends.com/">ETF Trends</a><br /></li>
+							<li class="module-list-item"><a href="http://etfreplay.com/">ETFreplay.com</a><br /></li>
+							<li class="module-list-item"><a href="http://www.indexuniverse.com/">IndexUniverse</a><br /></li>
+							<li class="module-list-item"><a href="http://us.ishares.com/home.htm">iShares</a><br /></li>
+							<li class="module-list-item"><a href="https://www.marketwatch.com/tools/etfs/html-top5.asp?siteid=mktw&amp;dist=10rt&amp;">MarketWatch ETFs</a><br /></li>
+							<li class="module-list-item"><a href="http://morningstar.com/">Morningstar</a><br /></li>
+							<li class="module-list-item"><a href="https://etp.nyx.com/">NYSE Euronext - Exchange Traded Products</a><br /></li>
+							<li class="module-list-item"><a href="http://www.wisdomtree.com/">WisdomTree</a><br /></li>
+							<li class="module-list-item"><a href="https://finance.yahoo.com/etf/education">Yahoo ETF Center</a><br /></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="ipos" class="module-typelist module">
+<h2 class="module-header">IPOs</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="http://123jump.com/" >123Jump</a></li>
+							<li class="module-list-item"><a title="" href="http://www.hoovers.com/global/ipoc/index.xhtml" >Hoover's IPO Central</a></li>
+							<li class="module-list-item"><a title="" href="https://www.marketwatch.com/tools/ipo/default.asp?siteid=mktw">MarketWatch IPOs</a></li>
+							<li class="module-list-item"><a title="" href="https://biz.yahoo.com/ipo/">Yahoo IPOs</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<div class="module-widget module" id="widget-TypePad_typepad-links-new-window">
+	<div class="module-content">
+    	
+<script type="text/javascript">
+    (function() {
+        var x = function() {
+            var links = document.getElementsByTagName
+                ? document.getElementsByTagName( "a" )
+                : document.links;
+            for( var i = 0; i < links.length; i++ ) {
+                var link = links[ i ];
+                if( link.host && link.host != window.location.host )
+                    link.target = "_blank";
+            }
+        }
+        
+        var o = window.onload;
+        window.onload = function( e ) {
+            x( e );
+            if( o )
+                return o( e );
+        }
+    })();
+</script>
+
+
+
+	</div>
+</div><!-- list_inlcude.tt  -->
+<div id="about_ticker_sense" class="module-typelist module">
+<h2 class="module-header">About Ticker Sense</h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note"><p>Ticker Sense was founded and developed by analysts at Birinyi Associates.  Birinyi Associates continues to own and manage all content.</p></div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="copyright_and_disclaimer" class="module-typelist module">
+<h2 class="module-header">Copyright and Disclaimer</h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note">© Copyright 2012, Birinyi Associates, Inc.
+Ticker Sense is published by Birinyi Associates, Inc., PO Box 711, Westport, CT 06881.  The information herein was obtained from sources which Birinyi Associates, Inc. believes reliable, but we do not guarantee its accuracy.  None of the information, advertisements, website links, or any opinions expressed constitutes a solicitation of the purchase or sale of any securities or commodities.
+
+Please note that Birinyi Associates, Inc. or its principals may already have invested or may from time to time invest in securities that are recommended or otherwise covered on this website.  Neither Birinyi Associates, Inc. nor its principals intend to disclose the extent of any current holdings or future transactions with respect to any particular security.  You should consider this possibility before investing in any security based upon statements and information contained in any report, post, comment or recommendation you receive from us.</div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+
+
+
+						</div>
+					</div>
+				</div>
+			</div>
+			
+
+
+
+		</div>
+	</div>
+	
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+<!--
+var extra_happy = Math.floor(1000000000 * Math.random());
+document.write('<img src="https://www.typepad.com/t/stats?blog_id=235758&amp;user_id=572596&amp;page=' + escape(location.href) + '&amp;referrer=' + escape(document.referrer) + '&amp;i=' + extra_happy + '" width="1" height="1" alt="" style="position: absolute; top: 0; left: 0;" />');
+// -->
+</script>
+
+
+
+<!-- Begin disqus Tag -->
+
+<!-- End disqus Tag -->
+</body>
+</html>
+
+<!-- ph=1 -->
